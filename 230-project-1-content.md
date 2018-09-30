@@ -32,6 +32,8 @@ Battle a whirlpool after your ship wrecks and jump across debris to escape!
 #### Learning
 - As the game progresses, the player will learn which platforms they should choose to jump to in order to be in a good position and make it the furthest.
 ### G. Screenshots
+![alt text](https://github.com/wjm3824/IGME230/blob/master/Whirlpool_1.png "Whirlpool 1")
+![alt text](https://github.com/wjm3824/IGME230/blob/master/Whirlpool_1.png "Whirlpool 2")
 ### H. Other Info
 - This games concept comes from Frogger and other similar IOS games i played as a kid.
 ### I. About the Developer

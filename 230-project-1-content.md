@@ -6,19 +6,24 @@
 
 ## Proposal
 ### High Concept
-- After being caught in a whirlpool, the player must jump across wreckage to escape.
+- After being caught in a whirlpool, the player must jump across wreckage to escape
+======
 ### Genre
 - Fast-paced platforming puzzle.
+======
 ### Platform
 - Universal
+======
 ### Story
 - Your ship has been suched into a whirlpool and destroyed, you must jump across the wreckage to escape the whirlpool. The challenge becomes more intense as the whirlpool speeds up over time.
+======
 ### Esthetics
 #### Graphics
 - Cartoonish with simple images and bright colors.
 #### Sound
 - High tension music that speeds up as the whirlpool speed up.
 - Sounds when player hits certain milestones in-game.
+======
 ### Gameplay
 #### Mechanics
 - The player must decide which platforms to jump to based on their distance and how fast they are going.

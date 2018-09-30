@@ -1,8 +1,8 @@
 # Project 1
 ## Index
-..* [Link to Proposal](https://people.rit.edu/~wjm3824/230/project1/proposal)
-..* [Link to Documentation](https://people.rit.edu/~wjm3824/230/project1/documentation)
-..* [Link to Project](https://people.rit.edu/~wjm3824/230/project1/project)
+- [Link to Proposal](https://people.rit.edu/~wjm3824/230/project1/proposal)
+- [Link to Documentation](https://people.rit.edu/~wjm3824/230/project1/documentation)
+- [Link to Project](https://people.rit.edu/~wjm3824/230/project1/project)
 
 ## Proposal
 ### Genre

@@ -57,5 +57,6 @@ Battle a whirlpool after your ship wrecks and jump across debris to escape!
 - Photoshop for the art/images
 - Markdown Cheatsheet page to create my own Github page
 - Brackets to write HTML/CSS/Markup
+- Font from: https://fonts2u.com/small-font-regular.font
 ## Project
 - Work In Progress

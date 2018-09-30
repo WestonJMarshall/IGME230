@@ -5,6 +5,8 @@ Battle a whirlpool after your ship wrecks and jump across debris to escape!
 - [Link to Proposal](https://people.rit.edu/~wjm3824/230/project1/proposal)
 - [Link to Documentation](https://people.rit.edu/~wjm3824/230/project1/documentation)
 - [Link to Project](https://people.rit.edu/~wjm3824/230/project1/project)
+
+![alt text](https://github.com/wjm3824/IGME230/blob/master/Whirlpool_2.png "Whirlpool 2")
 ## Proposal
 ### A. High Concept
 - After being caught in a whirlpool, the player must jump across wreckage to escape.
@@ -33,7 +35,7 @@ Battle a whirlpool after your ship wrecks and jump across debris to escape!
 - As the game progresses, the player will learn which platforms they should choose to jump to in order to be in a good position and make it the furthest.
 ### G. Screenshots
 ![alt text](https://github.com/wjm3824/IGME230/blob/master/Whirlpool_1.png "Whirlpool 1")
-![alt text](https://github.com/wjm3824/IGME230/blob/master/Whirlpool_1.png "Whirlpool 2")
+![alt text](https://github.com/wjm3824/IGME230/blob/master/Whirlpool_2.png "Whirlpool 2")
 ### H. Other Info
 - This games concept comes from Frogger and other similar IOS games i played as a kid.
 ### I. About the Developer
